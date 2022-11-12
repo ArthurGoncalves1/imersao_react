@@ -129,5 +129,17 @@
                 "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
             }
         ]
-    }
+    },"favorites": [
+        {
+            "name": "@omariosouto",
+            "pic": "https://yt3.ggpht.com/m8Yrqf0Y81L4mZ1Cq7rGnJ4NDHe6729rxiFZvWyy9-xd_Z7Osmza7J8NWpN1axMHcCb1oKJNgA=s176-c-k-c0x00ffffff-no-rj",
+            "url": "https://www.youtube.com/c/DevSoutinho"
+        },
+        {
+            "name": "@omariosouto",
+            "pic": "https://yt3.ggpht.com/m8Yrqf0Y81L4mZ1Cq7rGnJ4NDHe6729rxiFZvWyy9-xd_Z7Osmza7J8NWpN1axMHcCb1oKJNgA=s176-c-k-c0x00ffffff-no-rj",
+            "url": "https://www.youtube.com/c/DevSoutinho"
+        }
+    ]
+
 }
